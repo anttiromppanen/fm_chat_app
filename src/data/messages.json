@@ -1,0 +1,82 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "message": "That sounds great. I’d be happy with that.",
+      "type": "message",
+      "sender": "received"
+    },
+    {
+      "id": 2,
+      "message": "Could you send over some pictures of your dog, please?",
+      "type": "message",
+      "sender": "received"
+    },
+    {
+      "id": 3,
+      "message": [
+        "./dog-image-1.jpg",
+        "./dog-image-2.jpg",
+        "./dog-image-3.jpg"
+      ],
+      "type": "multimedia",
+      "sender": "sent"
+    },
+    {
+      "id": 4,
+      "message": "Here are a few pictures. She’s a happy girl!",
+      "type": "message",
+      "sender": "sent"
+    },
+    {
+      "id": 5,
+      "message": "Can you make it?",
+      "type": "message",
+      "sender": "sent"
+    },
+    {
+      "id": 6,
+      "message": "She looks so happy! The time we discussed works. How long shall I take her out for?",
+      "type": "message",
+      "sender": "received"
+    },
+    {
+      "id": 7,
+      "message": "30 minute walk",
+      "amount": 29,
+      "type": "invoice",
+      "sender": "received"
+    },
+    {
+      "id": 8,
+      "message": "1 hour walk",
+      "amount": 49,
+      "type": "invoice",
+      "sender": "received"
+    },
+    {
+      "id": 9,
+      "message": "Here are a few pictures. She’s a happy girl!",
+      "type": "message",
+      "sender": "sent"
+    },
+    {
+      "id": 10,
+      "message": "Can you make it?",
+      "type": "message",
+      "sender": "sent"
+    },
+    {
+      "id": 11,
+      "message": "Here are a few pictures. She’s a happy girl!",
+      "type": "message",
+      "sender": "sent"
+    },
+    {
+      "id": 12,
+      "message": "Can you make it?",
+      "type": "message",
+      "sender": "sent"
+    }
+  ]
+}
