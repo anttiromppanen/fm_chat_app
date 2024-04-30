@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/label-has-associated-control */
 import { motion } from "framer-motion";
 import { ReactNode } from "react";
 import { MessageType } from "../../types/types";
